@@ -1,0 +1,20 @@
+<resources>
+
+    <color name="colorPrimary">#0A1014</color>
+    <color name="colorPrimaryDark">#0A1014</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="statusBarColor">#0A1014</color>
+    <color name="colorControlNormal">#FFFFFF</color>
+    <color name="toolbar_bg">#262A32</color>
+	<color name="nav_bg">#262A32</color>
+    <color name="magic_tab_text">#21C063</color>
+    <color name="magic_indicator_wrap">#21C063</color>
+    <color name="magic_indicator_text">#FFFFFF</color>
+    <color name="magic_indicator_seleted_text">#21C063</color>
+    <color name="magic_indicator_background">#000000</color>
+    <color name="tab_SelectedTextColor">#FF4081</color>
+    <color name="nav_text_colors">#FFFFFF</color>
+
+</resources>

@@ -1,0 +1,40 @@
+<resources>
+
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="statusBarColor">#FFFFFF</color>
+    <color name="colorControlNormal">#000000</color>
+    <color name="nav_bg">#FFFFFF</color>
+    <color name="toolbar_bg">#14000000</color>
+    <color name="magic_tab_text">#000000</color>
+    <color name="magic_indicator_wrap">#1BFF4081</color>
+    <color name="magic_indicator_text">#000000</color>
+    <color name="magic_indicator_seleted_text">#FF4081</color>
+    <color name="magic_indicator_background">#FFFFFF</color>
+    <color name="colorBackground">#000000</color>
+    <color name="tab_SelectedTextColor">#FF4081</color>
+    <color name="nav_text_colors">#FF000000</color>
+    
+    
+    <color name="delete_data_color">#51238E</color>
+    <color name="delete_data_color_bg">#D0B5E4</color>
+
+    <color name="update_color">#2D33BF</color>
+    <color name="update_color_bg">#C2BEF2</color>
+
+    <color name="rate_app_color">#2D33BF</color>
+    <color name="rate_app_color_bg">#C2BEF2</color>
+
+    <color name="logout_color">#C9294F</color>
+    <color name="logout_color_bg">#F8D5E3</color>
+
+    <color name="delete_dialog">#FF5F63</color>
+    <color name="delete_dialog_bg">#FFD5D6</color>
+
+    <color name="ripple">#E9F8FF</color>
+    
+
+</resources>
