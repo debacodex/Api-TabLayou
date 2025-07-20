@@ -24,7 +24,7 @@ import com.bumptech.glide.Glide;
 import java.util.List;
 
 import java.util.Locale;
-
+import com.magic.in.R;
 public class MyRecyclerAdapter extends RecyclerView.Adapter<MyRecyclerAdapter.ViewHolder> {
 
 	private Context context;

@@ -25,7 +25,7 @@ import org.json.JSONObject;
 
 import java.util.ArrayList;
 import java.util.List;
-
+import com.magic.in.R;
 public class FragmentB extends Fragment {
 	
 	private RecyclerView recyclerView;
