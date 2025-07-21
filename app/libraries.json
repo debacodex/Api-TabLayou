@@ -1,72 +1,65 @@
 [
-  {
-    "artifactId": "appcompat",
-    "excludes": [],
-    "groupId": "androidx.appcompat",
-    "scope": "compile",
-    "versionName": "1.3.1"
-  },
-  {
-    "artifactId": "material",
-    "excludes": [],
-    "groupId": "com.google.android.material",
-    "scope": "compile",
-    "versionName": "1.4.0"
-  },
-  {
-    "artifactId": "constraintlayout",
-    "excludes": [],
-    "groupId": "androidx.constraintlayout",
-    "scope": "compile",
-    "versionName": "2.1.0"
-  },
-  {
-    "artifactId": "gson",
-    "excludes": [],
-    "groupId": "com.google.code.gson",
-    "scope": "compile",
-    "versionName": "2.8.9"
-  },
-  {
-    "artifactId": "recyclerview",
-    "excludes": [],
-    "groupId": "androidx.recyclerview",
-    "scope": "compile",
-    "versionName": "1.2.1"
-  },
-  {
-    "artifactId": "viewpager",
-    "excludes": [],
-    "groupId": "androidx.viewpager",
-    "scope": "compile",
-    "versionName": "1.0.0"
-  },
-  {
-    "artifactId": "MagicIndicator",
-    "excludes": [],
-    "groupId": "com.github.hackware1993",
-    "scope": "compile",
-    "versionName": "1.7.0"
-  },
-  {
-    "artifactId": "volley",
-    "excludes": [],
-    "groupId": "com.android.volley",
-    "scope": "compile",
-    "versionName": "1.2.1"
-  },
-  {
-    "artifactId": "glide",
-    "excludes": [],
-    "groupId": "com.github.bumptech.glide",
-    "scope": "compile",
-    "versionName": "4.15.1"
-  },
-	 {
-    "artifactId": "emptyview",
-    "excludes": [],
-    "groupId": "com.github.debacodex",
-    "scope": "compile",
-    "versionName": "1.0.0"
-  }
+	{
+		"artifactId": "appcompat",
+		"excludes": [],
+		"groupId": "androidx.appcompat",
+		"scope": "compile",
+		"versionName": "1.3.1"
+	},
+	{
+		"artifactId": "material",
+		"excludes": [],
+		"groupId": "com.google.android.material",
+		"scope": "compile",
+		"versionName": "1.4.0"
+	},
+	{
+		"artifactId": "constraintlayout",
+		"excludes": [],
+		"groupId": "androidx.constraintlayout",
+		"scope": "compile",
+		"versionName": "2.1.0"
+	},
+	{
+		"artifactId": "gson",
+		"excludes": [],
+		"groupId": "com.google.code.gson",
+		"scope": "compile",
+		"versionName": "2.8.9"
+	},
+	{
+		"artifactId": "recyclerview",
+		"excludes": [],
+		"groupId": "androidx.recyclerview",
+		"scope": "compile",
+		"versionName": "1.2.1"
+	},
+	{
+		"artifactId": "viewpager",
+		"excludes": [],
+		"groupId": "androidx.viewpager",
+		"scope": "compile",
+		"versionName": "1.0.0"
+	},
+	{
+		"artifactId": "MagicIndicator",
+		"excludes": [],
+		"groupId": "com.github.hackware1993",
+		"scope": "compile",
+		"versionName": "1.7.0"
+	},
+	{
+		"artifactId": "volley",
+		"excludes": [],
+		"groupId": "com.android.volley",
+		"scope": "compile",
+		"versionName": "1.2.1"
+	},
+	{
+		"artifactId": "glide",
+		"excludes": [],
+		"groupId": "com.github.bumptech.glide",
+		"scope": "compile",
+		"versionName": "4.15.1"
+	}
 ]

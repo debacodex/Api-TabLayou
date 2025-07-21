@@ -9,8 +9,6 @@
 /.idea/assetWizardSettings.xml
 .DS_Store
 /build
-/.github/workflows/android.yml
-/.github/workflows/elease-tag-apk.yml
 /captures
 .externalNativeBuild
 .cxx
